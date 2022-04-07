@@ -1,4 +1,4 @@
-ML and Sentiment Analysis
-Vocabulary : Set of unique elements
+ML and Sentiment Analysis\
+Vocabulary : Set of unique elements\
+Performed Sentiment Analysis using Logisitic regression\
 
-Performed Sentiment Analysis using Logisitic regression
